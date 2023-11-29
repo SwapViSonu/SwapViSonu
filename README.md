@@ -1,6 +1,6 @@
 👋 Hi there! I'm Swapnil..., an engineer with a passion for data science. Here's what you'll find in my GitHub profile:
 
-- 🚀 Pursuing Data Science certification
+- 🚀  Data Sciencetist
 - 💻 Skilled in Python, SQL, POWER BI
 - 📊 Experience with Machine Learning (ML) and Natural Language Processing (NLP)
 - 🔬 Deep Learning (DL) enthusiast
